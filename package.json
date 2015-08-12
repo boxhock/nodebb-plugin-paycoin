@@ -1,31 +1,31 @@
 {
-  "name": "nodebb-plugin-reddcoin",
+  "name": "nodebb-plugin-paycoin",
   "version": "0.1.0",
-  "description": "Reddcoin Tipping Plugin",
+  "description": "Paycoin Tipping Plugin",
   "main": "library.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reddink/nodebb-plugin-reddcoin"
+    "url": "https://github.com/BoXHocK/nodebb-plugin-paycoin"
   },
   "keywords": [
     "nodebb",
     "plugin",
-    "reddcoin",
+    "paycoin",
     "tipping",
     "bitcoin",
     "crypto",
     "cryptocurrency"
   ],
   "author": {
-    "name": "reddink",
-    "email": "redd@redd.ink"
+    "name": "boxhock",
+    "email": "theboxhock@gmail.com"
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/reddink/nodebb-plugin-reddcoin/issues"
+    "url": "https://github.com/BoXHocK/nodebb-plugin-paycoin/issues"
   },
   "nbbpm": {
     "compatibility": "^0.6.0"

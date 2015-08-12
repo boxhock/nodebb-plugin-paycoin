@@ -1,7 +1,7 @@
 
 <div class='col-md-12 reddcoin-history'>
 	<div class='well'>
-		<h1>Reddcoin Tip History</h1>
+		<h1>Paycoin Tip History</h1>
 		<h2>Address Details</h2>
 			<div id="addrAddrdetails"></div>
 	</div>
@@ -16,7 +16,8 @@
 	<div class='well'>
 		<p class="credit">Credits</p>
 		<p class="credit">Original Tipping Plugin created by <a href='https://github.com/reddink/nodebb-plugin-reddcoin'>ReddInk</a></p>
-		<p class="credit">RDD: <a href='reddcoin:RnygCADxGF45Rd171ujeB3SRhc6YMhJzpJ'>RnygCADxGF45Rd171ujeB3SRhc6YMhJzpJ</a> BTC: <a href='bitcoin:16WX3Y92Eh5BDDZ7YdbdPw5wYvV5KGQE94'>16WX3Y92Eh5BDDZ7YdbdPw5wYvV5KGQE94</a></p>
+		<p class="credit">Modified for Paycoin by <a href='https://github.com/BoXHocK/nodebb-plugin-paycoin'>boxhock</a></p>
+		<p class="credit">XPY: <a href='paycoin:PB9L4BcmRgZcTartvxFrawynawEQ8z8m4k'>PB9L4BcmRgZcTartvxFrawynawEQ8z8m4k</a> BTC: <a href='bitcoin:18xoc3dMZAxyx3hfEUbgtB2KPrRjzf3Ao3'>18xoc3dMZAxyx3hfEUbgtB2KPrRjzf3Ao3</a></p>
 	</div>
 </div>	
 

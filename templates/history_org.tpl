@@ -1,7 +1,7 @@
 
 <div class='col-md-12 reddcoin-history'>
 	<div class='well'>
-		<h1>Reddcoin Tip History</h1>
+		<h1>Paycoin Tip History</h1>
 		<h2>Address Details</h2>
 			<div id="addrAddrdetails"></div>
 	</div>

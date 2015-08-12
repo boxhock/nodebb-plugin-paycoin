@@ -29,7 +29,7 @@
 	</ul>
 </div>
 <div>
-<h1>History of Reddcoin Tips</h1>
+<h1>History of Paycoin Tips</h1>
 
 <span><p>Accounts are working.</p></span>
 <span><p>Currently a work in progress.</p></span>
@@ -41,7 +41,7 @@ A list of who has sent you tips
 <ul>
 	<!-- BEGIN test -->
 	<li>
-		{test.name}   {test.amount} RRD
+		{test.name}   {test.amount} XPY
 	</li>
 	<!-- END test -->
 </ul>

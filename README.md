@@ -1,28 +1,26 @@
-# NodeBB Reddcoin Tipping Plugin 
+# NodeBB Paycoin Tipping Plugin 
 
-This repo serves as a staging ground for the nodebb reddcoin tipping plugin.
+This repo serves as a staging ground for the nodebb Paycoin tipping plugin.
 
 ## Purpose
 
 I wanted to create an easy method for users of nodebb to be able to tip each other.
-This can be seen in action on [Reddcointalk](https://www.reddcointalk.org/)
+This can be seen in action on [PaycoinTalk](https://paycointalk.org/)
 
-Presently it uses the [BIP 21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) to launch either:
-[Reddcoin Browser Wallet - Chrome App plugin](https://chrome.google.com/webstore/detail/reddcoin-browser-wallet-b/alaadmjkbkmkhgdefdfeogneooblledf)
-or
-[Official QT Wallet](https://wallet.reddcoin.com/)
-in order to transfer an amount of Reddcoin directly using your wallet, rather than relying on a 'tipbot'
+Presently it uses the [BIP 21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) to launch the
+[Official QT Wallet](https://github.com/PaycoinFoundation/paycoin/releases)
+in order to transfer an amount of Paycoin directly using your wallet, rather than relying on a 'tipbot'.
 
 
 ## Installation
 
 requires min nodeBB 0.6.0
 
-git clone https://github.com/reddink/nodebb-plugin-reddcoin
+git clone https://github.com/BoXHocK/nodebb-plugin-paycoin
 
-cp nodebb-plugin-reddcoin ./nodebb/node_modules/
+cp nodebb-plugin-paycoin ./nodebb/node_modules/
 
-(have not yet submitted to NPM repo >> npm install nodebb-plugin-reddcoin)
+(have not yet submitted to NPM repo >> npm install nodebb-plugin-paycoin)
 
 goto the nodebb Admin
 
@@ -32,5 +30,5 @@ EXTEND
 
 Plugins
 
-Activate nodebb-plugin-reddcoin
+Activate nodebb-plugin-paycoin
 

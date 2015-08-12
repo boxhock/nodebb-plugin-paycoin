@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-reddcoin",
-	"name": "Reddcoin",
-	"description": "Reddcoin Tipping Plugin.",
-	"url": "https://github.com/reddink/nodebb-plugin-reddcoin",
+	"id": "nodebb-plugin-paycoin",
+	"name": "Paycoin",
+	"description": "Paycoin Tipping Plugin.",
+	"url": "https://github.com/BoXHocK/nodebb-plugin-paycoin",
 	"library": "./library.js",
 	"staticDirs": {
 		"static": "./static",
@@ -12,7 +12,7 @@
 		"./styles/style.less"
 		],
 	"scripts": [
-		"http://live.reddcoin.com:80/socket.io/socket.io.js",
+		"https://cdn.socket.io/socket.io-1.3.5.js",
 		"./lib/main.js"
 		],
 	"templates": "./templates",
